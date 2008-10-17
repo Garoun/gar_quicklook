@@ -1,7 +1,7 @@
 ## Interface: 30000
 ## Title: Quick Look[Wrath] by Garoun
 ## Notes: Adds ability to quick look with a keypress rather then toggle
-## Version: 3.0.0.10142008
+## Version: 3.0.2.10172008
 ## SavedVariables:
 ## OptionalDeps:
 ## Dependencies:
